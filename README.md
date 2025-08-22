@@ -10,26 +10,23 @@
 
 ## Вот краткая инструкция:
 
--- Авторизация
+а) Авторизация
 
-а) `mysql -u root -p` - зайти в **mysql** + пароль
+`mysql -u root -p` - зайти в **mysql** + пароль
 
--- Удаляем базу данных, если нужно
+б) Удаляем базу данных, если нужно
 
-б) `DROP DATABASE pin_nodemailer_db;`
+`DROP DATABASE pin_nodemailer_db;`
 
--- Создаем базу данных, если нужно
+в) Создаем базу данных, если нужно
 
-в) `CREATE DATABASE IF NOT EXISTS pin_nodemailer_db CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;`
+`CREATE DATABASE IF NOT EXISTS pin_nodemailer_db CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;`
 
+г) `Если не работает `node app.js import` для создания таблиц и колонок автоматом, то выбираем базу данных
 
--- Если не работает `node app.js import` для создания таблиц и колонок автоматом, то выбираем базу данных
+`USE pin_nodemailer_db;`
 
-г) `USE pin_nodemailer_db;`
-
--- и создаем в ручную таблицу **emails** с нужными колонками
-
-д) 
+д) Cоздаем в ручную таблицу **emails** с нужными колонками
 
 CREATE TABLE IF NOT EXISTS emails (
   id INT UNSIGNED NOT NULL AUTO_INCREMENT PRIMARY KEY,
@@ -54,7 +51,7 @@ CREATE TABLE IF NOT EXISTS emails (
 
  б) Выполните команду `node app.js send` - отправить письма.
 
- Вл вкладках консоле/терминале отобразится результат.
+ В вкладках консоле/терминале отобразится результат.
 
 
 ## Команды:
