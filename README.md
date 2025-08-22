@@ -22,7 +22,7 @@
 
 `CREATE DATABASE IF NOT EXISTS pin_nodemailer_db CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;`
 
-г) `Если не работает `node app.js import` для создания таблиц и колонок автоматом, то выбираем базу данных
+г) Если не работает `node app.js import` для создания таблиц и колонок автоматом, то выбираем базу данных
 
 `USE pin_nodemailer_db;`
 
