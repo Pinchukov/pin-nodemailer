@@ -11,19 +11,24 @@
 ## Вот краткая инструкция:
 
 -- Авторизация
+
 а) `mysql -u root -p` - зайти в **mysql** без **root** + пароль
 
 -- Удаляем базу данных, если нужно
+
 б) `DROP DATABASE pin_nodemailer_db;`
 
 -- Создаем базу данных, если нужно
+
 в) `CREATE DATABASE IF NOT EXISTS pin_nodemailer_db CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;`
 
 
 -- Если не работает `node app.js import` для создания таблиц и колонок автоматом, то выбираем базу данных
+
 г) `USE pin_nodemailer_db;`
 
 -- и создаем в ручную таблицу **emails** с нужными колонками
+
 д) 
 
 CREATE TABLE IF NOT EXISTS emails (
