@@ -1,0 +1,742 @@
+[2025-08-20T15:55:51+03:00] [ERROR] Error creating table: Access denied for user ''@'localhost' (using password: NO)
+[2025-08-20T15:57:35+03:00] [ERROR] Error creating table: getaddrinfo EAI_AGAIN db
+[2025-08-20T16:00:11+03:00] [ERROR] Error creating table: Unknown database 'pin_nodemailer_db'
+[2025-08-20T16:04:01+03:00] [ERROR] Error creating database or table: Access denied for user ''@'localhost' (using password: NO)
+[2025-08-20T16:07:19+03:00] [ERROR] Error creating database or table: Unknown database 'pin_nodemailer_db'
+[2025-08-20T16:08:12+03:00] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-20T16:08:12+03:00] [INFO] Table `emails` checked/created successfully.
+[2025-08-20T16:08:12+03:00] [INFO] Inserted/Updated email: example1@example.com
+[2025-08-20T16:08:12+03:00] [INFO] Inserted/Updated email: example2@example.com
+[2025-08-20T16:08:12+03:00] [INFO] Imported 2 emails from JSON
+[2025-08-20T16:18:58+03:00] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-20T16:18:58+03:00] [INFO] Table `emails` checked/created successfully.
+[2025-08-20T16:18:58+03:00] [ERROR] Import error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?
+      ON DUPLICATE KEY UPDATE title=VALUES(title), text=VALUES(text)' at line 2
+[2025-08-20T16:19:42+03:00] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-20T16:19:42+03:00] [INFO] Table `emails` checked/created successfully.
+[2025-08-20T16:19:42+03:00] [INFO] Imported 2 emails from JSON
+[2025-08-20T16:20:47+03:00] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-20T16:20:47+03:00] [INFO] Table `emails` checked/created successfully.
+[2025-08-20T16:20:47+03:00] [INFO] Imported batch of 2 emails, total imported: 2
+[2025-08-20T16:20:47+03:00] [INFO] Imported total 2 emails from JSON
+[2025-08-20T16:27:05+03:00] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-20T16:27:05+03:00] [INFO] Table `emails` checked/created successfully.
+[2025-08-20T16:27:05+03:00] [INFO] Imported batch of 2 emails, total imported: 2
+[2025-08-20T16:27:05+03:00] [INFO] Imported total 2 emails from JSON
+[2025-08-20T16:27:05+03:00] [INFO] Database connection pool closed.
+[2025-08-20T16:29:10+03:00] [ERROR] Error creating database or table: getaddrinfo EAI_AGAIN db
+[2025-08-20T16:29:25+03:00] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-20T16:29:25+03:00] [INFO] Table `emails` checked/created successfully.
+[2025-08-20T16:29:25+03:00] [INFO] Imported batch of 2 emails, total imported: 2
+[2025-08-20T16:29:25+03:00] [INFO] Imported total 2 emails from JSON
+[2025-08-20T16:29:25+03:00] [INFO] Database connection pool closed.
+[2025-08-20T16:37:36+03:00] [ERROR] Error creating database or table: getaddrinfo EAI_AGAIN db
+[2025-08-20T20:36:34+03:00] [ERROR] Error creating database or table: getaddrinfo EAI_AGAIN db
+[2025-08-20T20:38:16+03:00] [ERROR] Error creating database or table: getaddrinfo EAI_AGAIN db
+[2025-08-20T17:43:10Z] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-20T17:43:10Z] [INFO] Table `emails` checked/created successfully.
+[2025-08-20T17:54:08Z] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-20T17:54:08Z] [INFO] Table `emails` checked/created successfully.
+[2025-08-20T20:54:26+03:00] [ERROR] Error creating database or table: getaddrinfo EAI_AGAIN db
+[2025-08-20T17:55:15Z] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-20T17:55:15Z] [INFO] Table `emails` checked/created successfully.
+[2025-08-20T20:58:18+03:00] [ERROR] Error creating database or table: getaddrinfo EAI_AGAIN db
+[2025-08-20T20:59:20+03:00] [ERROR] Error creating database or table: getaddrinfo EAI_AGAIN db
+[2025-08-20T21:00:00+03:00] [ERROR] Error creating database or table: getaddrinfo EAI_AGAIN db
+[2025-08-20T18:01:25Z] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-20T18:01:25Z] [INFO] Table `emails` checked/created successfully.
+[2025-08-20T21:02:24+03:00] [ERROR] Error creating database or table: getaddrinfo EAI_AGAIN db
+[2025-08-20T18:05:06Z] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-20T18:05:07Z] [INFO] Table `emails` checked/created successfully.
+[2025-08-20T21:05:43+03:00] [ERROR] Error creating database or table: getaddrinfo EAI_AGAIN db
+[2025-08-20T21:07:51+03:00] [ERROR] Error creating database or table: getaddrinfo EAI_AGAIN db
+[2025-08-20T21:34:32+03:00] [ERROR] Error creating database or table: getaddrinfo EAI_AGAIN db
+[2025-08-20T22:20:22+03:00] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-20T22:20:22+03:00] [INFO] Table `emails` checked/created successfully.
+[2025-08-20T22:20:22+03:00] [INFO] Exported 2 emails to JSON
+[2025-08-20T22:25:16+03:00] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-20T22:25:16+03:00] [INFO] Table `emails` checked/created successfully.
+[2025-08-20T22:25:16+03:00] [INFO] Imported batch of 2 emails, total imported: 2
+[2025-08-20T22:25:16+03:00] [INFO] Imported total 2 emails from JSON
+[2025-08-20T22:25:16+03:00] [INFO] Database connection pool closed.
+[2025-08-20T22:37:13+03:00] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-20T22:37:13+03:00] [INFO] Table `emails` checked/created successfully.
+[2025-08-20T22:37:13+03:00] [INFO] Exported 2 emails to JSON
+[2025-08-20T22:37:27+03:00] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-20T22:37:27+03:00] [INFO] Table `emails` checked/created successfully.
+[2025-08-20T22:37:27+03:00] [INFO] Imported batch of 2 emails, total imported: 2
+[2025-08-20T22:37:27+03:00] [INFO] Imported total 2 emails from JSON
+[2025-08-20T22:37:27+03:00] [INFO] Database connection pool closed.
+[2025-08-20T22:38:24+03:00] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-20T22:38:24+03:00] [INFO] Table `emails` checked/created successfully.
+[2025-08-20T22:38:24+03:00] [INFO] Exported 2 emails to JSON
+[2025-08-20T22:39:01+03:00] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-20T22:39:01+03:00] [INFO] Table `emails` checked/created successfully.
+[2025-08-20T22:39:01+03:00] [INFO] Imported batch of 4 emails, total imported: 4
+[2025-08-20T22:39:01+03:00] [INFO] Imported total 4 emails from JSON
+[2025-08-20T22:39:01+03:00] [INFO] Database connection pool closed.
+[2025-08-20T22:40:40+03:00] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-20T22:40:40+03:00] [INFO] Table `emails` checked/created successfully.
+[2025-08-20T22:48:09+03:00] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-20T22:48:09+03:00] [INFO] Table `emails` checked/created successfully.
+[2025-08-20T22:52:05+03:00] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-20T22:52:05+03:00] [INFO] Table `emails` checked/created successfully.
+[2025-08-20T22:52:05+03:00] [INFO] Sending pending email id=1 (example1@example.com)
+[2025-08-20T22:52:06+03:00] [ERROR] Error sending email to example1@example.com: ENOENT: no such file or directory, open './data/file.pdf'
+[2025-08-20T22:52:06+03:00] [ERROR] Failed to send email id=1: ENOENT: no such file or directory, open './data/file.pdf'
+[2025-08-20T22:52:06+03:00] [INFO] Sending pending email id=2 (example2@example.com)
+[2025-08-20T22:52:06+03:00] [ERROR] Error sending email to example2@example.com: ENOENT: no such file or directory, open './data/file.pdf'
+[2025-08-20T22:52:06+03:00] [ERROR] Failed to send email id=2: ENOENT: no such file or directory, open './data/file.pdf'
+[2025-08-20T22:52:06+03:00] [INFO] Sending pending email id=14 (sweb27@yandex.ru)
+[2025-08-20T22:52:06+03:00] [ERROR] Error sending email to sweb27@yandex.ru: ENOENT: no such file or directory, open './data/file.pdf'
+[2025-08-20T22:52:06+03:00] [ERROR] Failed to send email id=14: ENOENT: no such file or directory, open './data/file.pdf'
+[2025-08-20T22:52:06+03:00] [INFO] Sending pending email id=15 (info@dvgid.ru)
+[2025-08-20T22:52:06+03:00] [ERROR] Error sending email to info@dvgid.ru: ENOENT: no such file or directory, open './data/file.pdf'
+[2025-08-20T22:52:06+03:00] [ERROR] Failed to send email id=15: ENOENT: no such file or directory, open './data/file.pdf'
+[2025-08-20T22:52:06+03:00] [INFO] Sending pending email id=16 (asket06@mail.ru)
+[2025-08-20T22:52:07+03:00] [ERROR] Error sending email to asket06@mail.ru: ENOENT: no such file or directory, open './data/file.pdf'
+[2025-08-20T22:52:07+03:00] [ERROR] Failed to send email id=16: ENOENT: no such file or directory, open './data/file.pdf'
+[2025-08-20T22:52:07+03:00] [INFO] Sending pending email id=17 (pinchukov.net@gmail.com)
+[2025-08-20T22:52:07+03:00] [ERROR] Error sending email to pinchukov.net@gmail.com: ENOENT: no such file or directory, open './data/file.pdf'
+[2025-08-20T22:52:07+03:00] [ERROR] Failed to send email id=17: ENOENT: no such file or directory, open './data/file.pdf'
+[2025-08-20T22:52:07+03:00] [INFO] Retrying email id=1 (example1@example.com), attempt 2
+[2025-08-20T22:52:07+03:00] [ERROR] Error sending email to example1@example.com: ENOENT: no such file or directory, open './data/file.pdf'
+[2025-08-20T22:52:07+03:00] [INFO] Retrying email id=2 (example2@example.com), attempt 2
+[2025-08-20T22:52:07+03:00] [ERROR] Error sending email to example2@example.com: ENOENT: no such file or directory, open './data/file.pdf'
+[2025-08-20T22:52:07+03:00] [INFO] Retrying email id=14 (sweb27@yandex.ru), attempt 2
+[2025-08-20T22:52:08+03:00] [ERROR] Error sending email to sweb27@yandex.ru: ENOENT: no such file or directory, open './data/file.pdf'
+[2025-08-20T22:52:08+03:00] [INFO] Retrying email id=15 (info@dvgid.ru), attempt 2
+[2025-08-20T22:52:08+03:00] [ERROR] Error sending email to info@dvgid.ru: ENOENT: no such file or directory, open './data/file.pdf'
+[2025-08-20T22:52:08+03:00] [INFO] Retrying email id=16 (asket06@mail.ru), attempt 2
+[2025-08-20T22:52:08+03:00] [ERROR] Error sending email to asket06@mail.ru: ENOENT: no such file or directory, open './data/file.pdf'
+[2025-08-20T22:52:08+03:00] [INFO] Retrying email id=17 (pinchukov.net@gmail.com), attempt 2
+[2025-08-20T22:52:08+03:00] [ERROR] Error sending email to pinchukov.net@gmail.com: ENOENT: no such file or directory, open './data/file.pdf'
+[2025-08-20T22:55:35+03:00] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-20T22:55:35+03:00] [INFO] Table `emails` checked/created successfully.
+[2025-08-20T22:55:35+03:00] [INFO] Retrying email id=1 (example1@example.com), attempt 3
+[2025-08-20T22:55:36+03:00] [INFO] Email sent to example1@example.com: <9b0c3d69-a6f3-9a71-9b9c-809c276fb6f3@yandex.ru>
+[2025-08-20T22:55:36+03:00] [INFO] Email id=1 sent successfully on retry
+[2025-08-20T22:55:36+03:00] [INFO] Retrying email id=2 (example2@example.com), attempt 3
+[2025-08-20T22:55:38+03:00] [INFO] Email sent to example2@example.com: <abe4d5d2-a4f1-989a-eeb5-9f3f78fbd4cf@yandex.ru>
+[2025-08-20T22:55:38+03:00] [INFO] Email id=2 sent successfully on retry
+[2025-08-20T22:55:38+03:00] [INFO] Retrying email id=14 (sweb27@yandex.ru), attempt 3
+[2025-08-20T22:55:39+03:00] [INFO] Email sent to sweb27@yandex.ru: <9e07b033-de2d-cd68-932c-7cc22bd55be1@yandex.ru>
+[2025-08-20T22:55:39+03:00] [INFO] Email id=14 sent successfully on retry
+[2025-08-20T22:55:39+03:00] [INFO] Retrying email id=15 (info@dvgid.ru), attempt 3
+[2025-08-20T22:55:40+03:00] [INFO] Email sent to info@dvgid.ru: <cc10dc80-a04d-fe74-3581-f16ebfac41ce@yandex.ru>
+[2025-08-20T22:55:40+03:00] [INFO] Email id=15 sent successfully on retry
+[2025-08-20T22:55:40+03:00] [INFO] Retrying email id=16 (asket06@mail.ru), attempt 3
+[2025-08-20T22:55:40+03:00] [INFO] Email sent to asket06@mail.ru: <6c84f3ad-a818-a8f3-2a7c-f929df2f9bd0@yandex.ru>
+[2025-08-20T22:55:40+03:00] [INFO] Email id=16 sent successfully on retry
+[2025-08-20T22:55:40+03:00] [INFO] Retrying email id=17 (pinchukov.net@gmail.com), attempt 3
+[2025-08-20T22:55:41+03:00] [INFO] Email sent to pinchukov.net@gmail.com: <67ae0c8c-6433-fbf8-d41b-58bd9ed0bf76@yandex.ru>
+[2025-08-20T22:55:41+03:00] [INFO] Email id=17 sent successfully on retry
+[2025-08-20T23:02:35+03:00] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-20T23:02:35+03:00] [INFO] Table `emails` checked/created successfully.
+[2025-08-20T23:07:53+03:00] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-20T23:07:53+03:00] [INFO] Table `emails` checked/created successfully.
+[2025-08-20T23:07:53+03:00] [INFO] Imported batch of 4 emails, total imported: 4
+[2025-08-20T23:07:53+03:00] [INFO] Imported total 4 emails from JSON
+[2025-08-20T23:07:53+03:00] [INFO] Database connection pool closed.
+[2025-08-20T23:08:07+03:00] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-20T23:08:07+03:00] [INFO] Table `emails` checked/created successfully.
+[2025-08-20T23:08:07+03:00] [INFO] Sending pending email id=1 (sweb27@yandex.ru)
+[2025-08-20T23:08:08+03:00] [INFO] Email sent to sweb27@yandex.ru: <fe344a0d-f921-fd6b-8876-f3d41b73aace@yandex.ru>
+[2025-08-20T23:08:08+03:00] [INFO] Email id=1 sent successfully
+[2025-08-20T23:08:08+03:00] [INFO] Sending pending email id=2 (info@dvgid.ru)
+[2025-08-20T23:08:09+03:00] [INFO] Email sent to info@dvgid.ru: <92260a25-fe9b-ae8d-c61b-35fd0ac8e9c1@yandex.ru>
+[2025-08-20T23:08:09+03:00] [INFO] Email id=2 sent successfully
+[2025-08-20T23:08:09+03:00] [INFO] Sending pending email id=3 (asket06@mail.ru)
+[2025-08-20T23:08:10+03:00] [INFO] Email sent to asket06@mail.ru: <a7fc48d9-8886-cbdf-86b5-a06e4d32022b@yandex.ru>
+[2025-08-20T23:08:10+03:00] [INFO] Email id=3 sent successfully
+[2025-08-20T23:08:10+03:00] [INFO] Sending pending email id=4 (pinchukov.net@gmail.com)
+[2025-08-20T23:08:12+03:00] [INFO] Email sent to pinchukov.net@gmail.com: <f16f540c-47f8-8a7c-a922-5d689fba6a81@yandex.ru>
+[2025-08-20T23:08:12+03:00] [INFO] Email id=4 sent successfully
+[2025-08-20T23:12:04+03:00] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-20T23:12:04+03:00] [INFO] Table `emails` checked/created successfully.
+[2025-08-20T23:16:32+03:00] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-20T23:16:32+03:00] [INFO] Table `emails` checked/created successfully.
+[2025-08-20T23:16:59+03:00] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-20T23:16:59+03:00] [INFO] Table `emails` checked/created successfully.
+[2025-08-20T23:16:59+03:00] [INFO] Отправка pending письма id=1 (sweb27@yandex.ru)
+[2025-08-20T23:17:00+03:00] [INFO] Email sent to sweb27@yandex.ru: <dfdf92d8-d3cd-f010-33d1-9511303a9baf@yandex.ru>
+[2025-08-20T23:17:00+03:00] [INFO] Письмо id=1 отправлено успешно
+[2025-08-20T23:19:59+03:00] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-20T23:19:59+03:00] [INFO] Table `emails` checked/created successfully.
+[2025-08-20T23:20:41+03:00] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-20T23:20:41+03:00] [INFO] Table `emails` checked/created successfully.
+[2025-08-20T23:21:08+03:00] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-20T23:21:08+03:00] [INFO] Table `emails` checked/created successfully.
+[2025-08-20T23:21:36+03:00] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-20T23:21:36+03:00] [INFO] Table `emails` checked/created successfully.
+[2025-08-21T00:25:07+03:00] [INFO] Worker для очереди emailQueue запущен и ждет задач...
+[2025-08-21T00:25:07+03:00] [ERROR] Ошибка очереди: connect ECONNREFUSED 127.0.0.1:6379
+[2025-08-21T00:25:07+03:00] [ERROR] Ошибка очереди: connect ECONNREFUSED 127.0.0.1:6379
+[2025-08-21T00:25:07+03:00] [ERROR] Ошибка очереди: connect ECONNREFUSED 127.0.0.1:6379
+[2025-08-21T00:25:07+03:00] [ERROR] Ошибка очереди: connect ECONNREFUSED 127.0.0.1:6379
+[2025-08-21T00:25:07+03:00] [ERROR] Ошибка очереди: connect ECONNREFUSED 127.0.0.1:6379
+[2025-08-21T00:25:07+03:00] [ERROR] Ошибка очереди: connect ECONNREFUSED 127.0.0.1:6379
+[2025-08-21T00:25:07+03:00] [ERROR] Ошибка очереди: connect ECONNREFUSED 127.0.0.1:6379
+[2025-08-21T00:25:07+03:00] [ERROR] Ошибка очереди: connect ECONNREFUSED 127.0.0.1:6379
+[2025-08-21T00:25:07+03:00] [ERROR] Ошибка очереди: connect ECONNREFUSED 127.0.0.1:6379
+[2025-08-21T00:25:07+03:00] [ERROR] Ошибка очереди: connect ECONNREFUSED 127.0.0.1:6379
+[2025-08-21T00:25:07+03:00] [ERROR] Ошибка очереди: connect ECONNREFUSED 127.0.0.1:6379
+[2025-08-21T00:25:07+03:00] [ERROR] Ошибка очереди: connect ECONNREFUSED 127.0.0.1:6379
+[2025-08-21T00:25:08+03:00] [ERROR] Ошибка очереди: connect ECONNREFUSED 127.0.0.1:6379
+[2025-08-21T00:25:08+03:00] [ERROR] Ошибка очереди: connect ECONNREFUSED 127.0.0.1:6379
+[2025-08-21T00:25:09+03:00] [ERROR] Ошибка очереди: connect ECONNREFUSED 127.0.0.1:6379
+[2025-08-21T00:25:09+03:00] [ERROR] Ошибка очереди: connect ECONNREFUSED 127.0.0.1:6379
+[2025-08-21T00:25:12+03:00] [ERROR] Ошибка очереди: connect ECONNREFUSED 127.0.0.1:6379
+[2025-08-21T00:25:12+03:00] [ERROR] Ошибка очереди: connect ECONNREFUSED 127.0.0.1:6379
+[2025-08-21T00:25:20+03:00] [ERROR] Ошибка очереди: connect ECONNREFUSED 127.0.0.1:6379
+[2025-08-21T00:25:20+03:00] [ERROR] Ошибка очереди: connect ECONNREFUSED 127.0.0.1:6379
+[2025-08-21T00:32:59+03:00] [INFO] Worker для очереди emailQueue запущен и ждет задач...
+[2025-08-21T00:33:13+03:00] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-21T00:33:13+03:00] [INFO] Table `emails` checked/created successfully.
+[2025-08-21T00:33:47+03:00] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-21T00:33:47+03:00] [INFO] Table `emails` checked/created successfully.
+[2025-08-21T00:33:58+03:00] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-21T00:33:58+03:00] [INFO] Table `emails` checked/created successfully.
+[2025-08-21T00:33:58+03:00] [INFO] Добавление pending письма в очередь id=1 (sweb27@yandex.ru)
+[2025-08-21T00:33:58+03:00] [INFO] Начинаю обработку письма id=1 для sweb27@yandex.ru
+[2025-08-21T00:33:59+03:00] [INFO] Email sent to sweb27@yandex.ru: <55ac804d-b954-53a8-35fe-8a389dd9aeeb@yandex.ru>
+[2025-08-21T00:33:59+03:00] [INFO] Письмо id=1 успешно отправлено
+[2025-08-21T00:33:59+03:00] [INFO] Задача jobId=1 успешно выполнена
+[2025-08-21T00:40:55+03:00] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-21T00:40:55+03:00] [INFO] Table `emails` checked/created successfully.
+[2025-08-21T00:40:55+03:00] [INFO] Imported batch of 4 emails, total imported: 4
+[2025-08-21T00:40:55+03:00] [INFO] Imported total 4 emails from JSON
+[2025-08-21T00:40:55+03:00] [INFO] Database connection pool closed.
+[2025-08-21T00:41:10+03:00] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-21T00:41:10+03:00] [INFO] Table `emails` checked/created successfully.
+[2025-08-21T00:41:10+03:00] [INFO] Добавление pending письма в очередь id=1 (sweb27@yandex.ru)
+[2025-08-21T00:41:10+03:00] [INFO] Добавление pending письма в очередь id=2 (info@dvgid.ru)
+[2025-08-21T00:41:10+03:00] [INFO] Начинаю обработку письма id=1 для sweb27@yandex.ru
+[2025-08-21T00:41:10+03:00] [INFO] Добавление pending письма в очередь id=3 (asket06@mail.ru)
+[2025-08-21T00:41:10+03:00] [INFO] Добавление pending письма в очередь id=4 (pinchukov.net@gmail.com)
+[2025-08-21T00:41:11+03:00] [INFO] Email sent to sweb27@yandex.ru: <14f1df39-5082-84f3-1531-e9f9b0d96a3f@yandex.ru>
+[2025-08-21T00:41:11+03:00] [INFO] Письмо id=1 успешно отправлено
+[2025-08-21T00:41:11+03:00] [INFO] Задача jobId=2 успешно выполнена
+[2025-08-21T00:41:11+03:00] [INFO] Начинаю обработку письма id=2 для info@dvgid.ru
+[2025-08-21T00:41:11+03:00] [INFO] Email sent to info@dvgid.ru: <d647e54e-09f9-52a6-9940-415b697fc10c@yandex.ru>
+[2025-08-21T00:41:11+03:00] [INFO] Письмо id=2 успешно отправлено
+[2025-08-21T00:41:11+03:00] [INFO] Задача jobId=3 успешно выполнена
+[2025-08-21T00:41:11+03:00] [INFO] Начинаю обработку письма id=3 для asket06@mail.ru
+[2025-08-21T00:41:12+03:00] [INFO] Email sent to asket06@mail.ru: <1e5c155f-b20e-a309-640d-1b9538ce950a@yandex.ru>
+[2025-08-21T00:41:12+03:00] [INFO] Письмо id=3 успешно отправлено
+[2025-08-21T00:41:12+03:00] [INFO] Задача jobId=4 успешно выполнена
+[2025-08-21T00:41:12+03:00] [INFO] Начинаю обработку письма id=4 для pinchukov.net@gmail.com
+[2025-08-21T00:41:13+03:00] [INFO] Email sent to pinchukov.net@gmail.com: <cf07e789-06c0-45d2-3ded-e3aefa6f7b89@yandex.ru>
+[2025-08-21T00:41:13+03:00] [INFO] Письмо id=4 успешно отправлено
+[2025-08-21T00:41:13+03:00] [INFO] Задача jobId=5 успешно выполнена
+[2025-08-21T00:42:50+03:00] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-21T00:42:50+03:00] [INFO] Table `emails` checked/created successfully.
+[2025-08-21T00:42:50+03:00] [WARN] No valid email entries to import.
+[2025-08-21T00:42:50+03:00] [INFO] Database connection pool closed.
+[2025-08-21T00:43:00+03:00] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-21T00:43:00+03:00] [INFO] Table `emails` checked/created successfully.
+[2025-08-21T00:47:01+03:00] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-21T00:47:01+03:00] [INFO] Table `emails` checked/created successfully.
+[2025-08-21T00:47:01+03:00] [ERROR] Import error: Column count doesn't match value count at row 1
+[2025-08-21T00:47:01+03:00] [INFO] Database connection pool closed.
+[2025-08-21T00:50:55+03:00] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-21T00:50:55+03:00] [INFO] Table `emails` checked/created successfully.
+[2025-08-21T00:50:55+03:00] [INFO] Imported batch of 4 emails, total imported: 4
+[2025-08-21T00:50:55+03:00] [INFO] Imported total 4 emails from JSON
+[2025-08-21T00:50:55+03:00] [INFO] Database connection pool closed.
+[2025-08-21T00:51:03+03:00] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-21T00:51:03+03:00] [INFO] Table `emails` checked/created successfully.
+[2025-08-21T00:51:03+03:00] [INFO] Добавление pending письма в очередь id=1 (sweb27@yandex.ru)
+[2025-08-21T00:51:03+03:00] [INFO] Добавление pending письма в очередь id=2 (info@dvgid.ru)
+[2025-08-21T00:51:03+03:00] [INFO] Начинаю обработку письма id=1 для sweb27@yandex.ru
+[2025-08-21T00:51:03+03:00] [INFO] Добавление pending письма в очередь id=3 (asket06@mail.ru)
+[2025-08-21T00:51:03+03:00] [INFO] Добавление pending письма в очередь id=4 (pinchukov.net@gmail.com)
+[2025-08-21T00:51:04+03:00] [INFO] Email sent to sweb27@yandex.ru: <3b4c69d2-5482-33cb-aa06-a81e9ad25586@yandex.ru>
+[2025-08-21T00:51:04+03:00] [INFO] Письмо id=1 успешно отправлено
+[2025-08-21T00:51:04+03:00] [INFO] Задача jobId=6 успешно выполнена
+[2025-08-21T00:51:04+03:00] [INFO] Начинаю обработку письма id=2 для info@dvgid.ru
+[2025-08-21T00:51:04+03:00] [INFO] Email sent to info@dvgid.ru: <3eace3a1-19f8-4d8d-03aa-182d5e1b318e@yandex.ru>
+[2025-08-21T00:51:04+03:00] [INFO] Письмо id=2 успешно отправлено
+[2025-08-21T00:51:04+03:00] [INFO] Задача jobId=7 успешно выполнена
+[2025-08-21T00:51:04+03:00] [INFO] Начинаю обработку письма id=3 для asket06@mail.ru
+[2025-08-21T00:51:05+03:00] [INFO] Email sent to asket06@mail.ru: <3aaba77e-c397-1cf0-3167-70646d4bf061@yandex.ru>
+[2025-08-21T00:51:05+03:00] [INFO] Письмо id=3 успешно отправлено
+[2025-08-21T00:51:05+03:00] [INFO] Задача jobId=8 успешно выполнена
+[2025-08-21T00:51:05+03:00] [INFO] Начинаю обработку письма id=4 для pinchukov.net@gmail.com
+[2025-08-21T00:51:06+03:00] [INFO] Email sent to pinchukov.net@gmail.com: <67ad6c21-703d-de46-3e43-269d5067b8fb@yandex.ru>
+[2025-08-21T00:51:06+03:00] [INFO] Письмо id=4 успешно отправлено
+[2025-08-21T00:51:06+03:00] [INFO] Задача jobId=9 успешно выполнена
+[2025-08-21T00:57:26+03:00] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-21T00:57:26+03:00] [INFO] Table `emails` checked/created successfully.
+[2025-08-21T00:57:26+03:00] [INFO] Imported batch of 4 emails, total imported: 4
+[2025-08-21T00:57:26+03:00] [INFO] Imported total 4 emails from JSON
+[2025-08-21T00:57:26+03:00] [INFO] Database connection pool closed.
+[2025-08-21T00:57:34+03:00] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-21T00:57:34+03:00] [INFO] Table `emails` checked/created successfully.
+[2025-08-21T00:57:34+03:00] [INFO] Добавление pending письма в очередь id=1 (sweb27@yandex.ru)
+[2025-08-21T00:57:34+03:00] [INFO] Добавление pending письма в очередь id=2 (info@dvgid.ru)
+[2025-08-21T00:57:34+03:00] [INFO] Начинаю обработку письма id=1 для sweb27@yandex.ru
+[2025-08-21T00:57:34+03:00] [INFO] Добавление pending письма в очередь id=3 (asket06@mail.ru)
+[2025-08-21T00:57:34+03:00] [INFO] Добавление pending письма в очередь id=4 (pinchukov.net@gmail.com)
+[2025-08-21T00:57:34+03:00] [INFO] Email sent to sweb27@yandex.ru: <d0db011e-f72e-75a4-3ed4-5e22e8054189@yandex.ru>
+[2025-08-21T00:57:34+03:00] [INFO] Письмо id=1 успешно отправлено
+[2025-08-21T00:57:34+03:00] [INFO] Задача jobId=10 успешно выполнена
+[2025-08-21T00:57:34+03:00] [INFO] Начинаю обработку письма id=2 для info@dvgid.ru
+[2025-08-21T00:57:35+03:00] [INFO] Email sent to info@dvgid.ru: <c54252ec-0fc5-d559-ff79-777faab81063@yandex.ru>
+[2025-08-21T00:57:35+03:00] [INFO] Письмо id=2 успешно отправлено
+[2025-08-21T00:57:35+03:00] [INFO] Задача jobId=11 успешно выполнена
+[2025-08-21T00:57:35+03:00] [INFO] Начинаю обработку письма id=3 для asket06@mail.ru
+[2025-08-21T00:57:36+03:00] [INFO] Email sent to asket06@mail.ru: <77aabc7a-4671-2b9e-f297-3c9e4fc47bce@yandex.ru>
+[2025-08-21T00:57:36+03:00] [INFO] Письмо id=3 успешно отправлено
+[2025-08-21T00:57:36+03:00] [INFO] Задача jobId=12 успешно выполнена
+[2025-08-21T00:57:36+03:00] [INFO] Начинаю обработку письма id=4 для pinchukov.net@gmail.com
+[2025-08-21T00:57:36+03:00] [INFO] Email sent to pinchukov.net@gmail.com: <b6a5c31a-fd15-ca90-47cc-c65f76132a59@yandex.ru>
+[2025-08-21T00:57:36+03:00] [INFO] Письмо id=4 успешно отправлено
+[2025-08-21T00:57:36+03:00] [INFO] Задача jobId=13 успешно выполнена
+[2025-08-21T22:48:12+03:00] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-21T22:48:12+03:00] [INFO] Table `emails` checked/created successfully.
+[2025-08-21T22:48:12+03:00] [INFO] Imported batch of 4 emails, total imported: 4
+[2025-08-21T22:48:12+03:00] [INFO] Imported total 4 emails from dataImport module.
+[2025-08-21T22:48:12+03:00] [INFO] Database connection pool closed.
+[2025-08-21T22:49:20+03:00] [INFO] Worker для очереди emailQueue запущен и ждет задач...
+[2025-08-21T22:50:06+03:00] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-21T22:50:06+03:00] [INFO] Table `emails` checked/created successfully.
+[2025-08-21T22:50:06+03:00] [INFO] Добавление pending письма в очередь id=1 (sweb27@yandex.ru)
+[2025-08-21T22:50:06+03:00] [INFO] Добавление pending письма в очередь id=2 (info@dvgid.ru)
+[2025-08-21T22:50:06+03:00] [INFO] Добавление pending письма в очередь id=3 (asket06@mail.ru)
+[2025-08-21T22:50:06+03:00] [INFO] Добавление pending письма в очередь id=4 (pinchukov.net@gmail.com)
+[2025-08-21T22:50:06+03:00] [INFO] Начинаю обработку письма id=1 для sweb27@yandex.ru
+[2025-08-21T22:50:07+03:00] [INFO] Email sent to sweb27@yandex.ru: <db001f20-2efc-816e-021b-89138a55ec95@yandex.ru>
+[2025-08-21T22:50:07+03:00] [INFO] Письмо id=1 успешно отправлено
+[2025-08-21T22:50:07+03:00] [INFO] Задача jobId=14 успешно выполнена
+[2025-08-21T22:50:07+03:00] [INFO] Начинаю обработку письма id=2 для info@dvgid.ru
+[2025-08-21T22:50:08+03:00] [INFO] Email sent to info@dvgid.ru: <75cef9f5-ca89-510e-233f-b773497bbcdb@yandex.ru>
+[2025-08-21T22:50:08+03:00] [INFO] Письмо id=2 успешно отправлено
+[2025-08-21T22:50:08+03:00] [INFO] Задача jobId=15 успешно выполнена
+[2025-08-21T22:50:08+03:00] [INFO] Начинаю обработку письма id=3 для asket06@mail.ru
+[2025-08-21T22:50:08+03:00] [INFO] Email sent to asket06@mail.ru: <11d3c0a3-6be8-a449-9c31-1bfcdae6fd95@yandex.ru>
+[2025-08-21T22:50:08+03:00] [INFO] Письмо id=3 успешно отправлено
+[2025-08-21T22:50:08+03:00] [INFO] Задача jobId=16 успешно выполнена
+[2025-08-21T22:50:08+03:00] [INFO] Начинаю обработку письма id=4 для pinchukov.net@gmail.com
+[2025-08-21T22:50:09+03:00] [INFO] Email sent to pinchukov.net@gmail.com: <463dfb53-d86d-ea40-52fa-ba1e1fb97660@yandex.ru>
+[2025-08-21T22:50:09+03:00] [INFO] Письмо id=4 успешно отправлено
+[2025-08-21T22:50:09+03:00] [INFO] Задача jobId=17 успешно выполнена
+[2025-08-21T23:03:15+03:00] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-21T23:03:15+03:00] [INFO] Table `emails` checked/created successfully.
+[2025-08-21T23:03:15+03:00] [ERROR] Import error: Unknown column 'file' in 'field list'
+[2025-08-21T23:03:15+03:00] [INFO] Database connection pool closed.
+[2025-08-21T23:04:52+03:00] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-21T23:04:52+03:00] [INFO] Table `emails` checked/created successfully.
+[2025-08-21T23:04:52+03:00] [ERROR] Import error: Unknown column 'file' in 'field list'
+[2025-08-21T23:04:52+03:00] [INFO] Database connection pool closed.
+[2025-08-21T23:06:37+03:00] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-21T23:06:37+03:00] [INFO] Table `emails` checked/created successfully.
+[2025-08-21T23:06:37+03:00] [ERROR] Import error: Unknown column 'file' in 'field list'
+[2025-08-21T23:06:37+03:00] [INFO] Database connection pool closed.
+[2025-08-21T23:08:56+03:00] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-21T23:08:56+03:00] [INFO] Table `emails` checked/created successfully.
+[2025-08-21T23:08:56+03:00] [ERROR] Import error: Unknown column 'file' in 'field list'
+[2025-08-21T23:08:56+03:00] [INFO] Database connection pool closed.
+[2025-08-21T23:09:48+03:00] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-21T23:09:48+03:00] [INFO] Table `emails` checked/created successfully.
+[2025-08-21T23:09:48+03:00] [INFO] Imported batch of 4 emails, total imported: 4
+[2025-08-21T23:09:48+03:00] [INFO] Imported total 4 emails from dataImport module.
+[2025-08-21T23:09:48+03:00] [INFO] Database connection pool closed.
+[2025-08-21T23:18:27+03:00] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-21T23:18:27+03:00] [INFO] Table `emails` checked/created successfully.
+[2025-08-21T23:18:27+03:00] [INFO] Imported batch of 4 emails, total imported: 4
+[2025-08-21T23:18:27+03:00] [INFO] Imported total 4 emails from dataImport module.
+[2025-08-21T23:18:27+03:00] [INFO] Database connection pool closed.
+[2025-08-21T23:18:40+03:00] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-21T23:18:40+03:00] [INFO] Table `emails` checked/created successfully.
+[2025-08-21T23:18:40+03:00] [INFO] Добавление pending письма в очередь id=1 (sweb27@yandex.ru)
+[2025-08-21T23:18:40+03:00] [INFO] Добавление pending письма в очередь id=2 (info@dvgid.ru)
+[2025-08-21T23:18:40+03:00] [INFO] Добавление pending письма в очередь id=3 (asket06@mail.ru)
+[2025-08-21T23:18:40+03:00] [INFO] Добавление pending письма в очередь id=4 (pinchukov.net@gmail.com)
+[2025-08-21T23:20:12+03:00] [INFO] Worker для очереди emailQueue запущен и ждет задач...
+[2025-08-21T23:20:12+03:00] [INFO] Начинаю обработку письма id=1 для sweb27@yandex.ru
+[2025-08-21T23:20:13+03:00] [INFO] Email sent to sweb27@yandex.ru: <18407cbe-efd6-c575-5d67-75d29cf18a2e@yandex.ru>
+[2025-08-21T23:20:13+03:00] [INFO] Письмо id=1 успешно отправлено
+[2025-08-21T23:20:13+03:00] [INFO] Задача jobId=18 успешно выполнена
+[2025-08-21T23:20:13+03:00] [INFO] Начинаю обработку письма id=2 для info@dvgid.ru
+[2025-08-21T23:20:14+03:00] [INFO] Email sent to info@dvgid.ru: <fd8a78f5-2149-3558-d92c-ae36e83cd797@yandex.ru>
+[2025-08-21T23:20:14+03:00] [INFO] Письмо id=2 успешно отправлено
+[2025-08-21T23:20:14+03:00] [INFO] Задача jobId=19 успешно выполнена
+[2025-08-21T23:20:14+03:00] [INFO] Начинаю обработку письма id=3 для asket06@mail.ru
+[2025-08-21T23:20:14+03:00] [INFO] Email sent to asket06@mail.ru: <b806ff2f-26fe-82ea-4781-45f10cfaf53b@yandex.ru>
+[2025-08-21T23:20:14+03:00] [INFO] Письмо id=3 успешно отправлено
+[2025-08-21T23:20:14+03:00] [INFO] Задача jobId=20 успешно выполнена
+[2025-08-21T23:20:14+03:00] [INFO] Начинаю обработку письма id=4 для pinchukov.net@gmail.com
+[2025-08-21T23:20:15+03:00] [INFO] Email sent to pinchukov.net@gmail.com: <1d8778dd-27f8-ebed-a465-247ec5c54ff5@yandex.ru>
+[2025-08-21T23:20:15+03:00] [INFO] Письмо id=4 успешно отправлено
+[2025-08-21T23:20:15+03:00] [INFO] Задача jobId=21 успешно выполнена
+[2025-08-21T23:21:51+03:00] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-21T23:21:51+03:00] [INFO] Table `emails` checked/created successfully.
+[2025-08-21T23:21:51+03:00] [INFO] Imported batch of 4 emails, total imported: 4
+[2025-08-21T23:21:51+03:00] [INFO] Imported total 4 emails from dataImport module.
+[2025-08-21T23:21:51+03:00] [INFO] Database connection pool closed.
+[2025-08-21T23:22:05+03:00] [INFO] Worker для очереди emailQueue запущен и ждет задач...
+[2025-08-21T23:22:12+03:00] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-21T23:22:12+03:00] [INFO] Table `emails` checked/created successfully.
+[2025-08-21T23:22:12+03:00] [INFO] Добавление pending письма в очередь id=1 (sweb27@yandex.ru)
+[2025-08-21T23:22:12+03:00] [INFO] Добавление pending письма в очередь id=2 (info@dvgid.ru)
+[2025-08-21T23:22:12+03:00] [INFO] Добавление pending письма в очередь id=3 (asket06@mail.ru)
+[2025-08-21T23:22:12+03:00] [INFO] Добавление pending письма в очередь id=4 (pinchukov.net@gmail.com)
+[2025-08-21T23:22:12+03:00] [INFO] Начинаю обработку письма id=1 для sweb27@yandex.ru
+[2025-08-21T23:22:13+03:00] [INFO] Email sent to sweb27@yandex.ru: <c827c150-f427-07d5-e64f-e4f98c255451@yandex.ru>
+[2025-08-21T23:22:13+03:00] [INFO] Письмо id=1 успешно отправлено
+[2025-08-21T23:22:13+03:00] [INFO] Задача jobId=22 успешно выполнена
+[2025-08-21T23:22:13+03:00] [INFO] Начинаю обработку письма id=2 для info@dvgid.ru
+[2025-08-21T23:22:13+03:00] [INFO] Email sent to info@dvgid.ru: <45274373-6e9c-62be-9531-e8d5ad00ad5e@yandex.ru>
+[2025-08-21T23:22:13+03:00] [INFO] Письмо id=2 успешно отправлено
+[2025-08-21T23:22:13+03:00] [INFO] Задача jobId=23 успешно выполнена
+[2025-08-21T23:22:13+03:00] [INFO] Начинаю обработку письма id=3 для asket06@mail.ru
+[2025-08-21T23:22:14+03:00] [INFO] Email sent to asket06@mail.ru: <042360ff-6a4d-13fd-cd5e-6d9ce427108d@yandex.ru>
+[2025-08-21T23:22:14+03:00] [INFO] Письмо id=3 успешно отправлено
+[2025-08-21T23:22:14+03:00] [INFO] Задача jobId=24 успешно выполнена
+[2025-08-21T23:22:14+03:00] [INFO] Начинаю обработку письма id=4 для pinchukov.net@gmail.com
+[2025-08-21T23:22:14+03:00] [INFO] Email sent to pinchukov.net@gmail.com: <00130875-8b2f-1da2-c1fa-81f2a7a37b9e@yandex.ru>
+[2025-08-21T23:22:14+03:00] [INFO] Письмо id=4 успешно отправлено
+[2025-08-21T23:22:14+03:00] [INFO] Задача jobId=25 успешно выполнена
+[2025-08-21T23:29:10+03:00] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-21T23:29:10+03:00] [INFO] Table `emails` checked/created successfully.
+[2025-08-21T23:29:10+03:00] [INFO] Imported batch of 4 emails, total imported: 4
+[2025-08-21T23:29:10+03:00] [INFO] Imported total 4 emails from dataImport module.
+[2025-08-21T23:29:10+03:00] [INFO] Database connection pool closed.
+[2025-08-21T23:29:20+03:00] [INFO] Worker для очереди emailQueue запущен и ждет задач...
+[2025-08-21T23:29:26+03:00] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-21T23:29:26+03:00] [INFO] Table `emails` checked/created successfully.
+[2025-08-21T23:29:26+03:00] [INFO] Добавление pending письма в очередь id=1 (sweb27@yandex.ru)
+[2025-08-21T23:29:26+03:00] [INFO] Добавление pending письма в очередь id=2 (info@dvgid.ru)
+[2025-08-21T23:29:26+03:00] [INFO] Добавление pending письма в очередь id=3 (asket06@mail.ru)
+[2025-08-21T23:29:26+03:00] [INFO] Добавление pending письма в очередь id=4 (pinchukov.net@gmail.com)
+[2025-08-21T23:29:26+03:00] [INFO] Начинаю обработку письма id=1 для sweb27@yandex.ru
+[2025-08-21T23:29:26+03:00] [INFO] Email sent to sweb27@yandex.ru: <3aae9278-fcf9-f46b-b536-9bac3c4a7107@yandex.ru>
+[2025-08-21T23:29:26+03:00] [INFO] Письмо id=1 успешно отправлено
+[2025-08-21T23:29:26+03:00] [INFO] Задача jobId=26 успешно выполнена
+[2025-08-21T23:29:26+03:00] [INFO] Начинаю обработку письма id=2 для info@dvgid.ru
+[2025-08-21T23:29:27+03:00] [INFO] Email sent to info@dvgid.ru: <db2cc7a8-bd5a-85d9-8b82-0fd85cb10503@yandex.ru>
+[2025-08-21T23:29:27+03:00] [INFO] Письмо id=2 успешно отправлено
+[2025-08-21T23:29:27+03:00] [INFO] Задача jobId=27 успешно выполнена
+[2025-08-21T23:29:27+03:00] [INFO] Начинаю обработку письма id=3 для asket06@mail.ru
+[2025-08-21T23:29:28+03:00] [INFO] Email sent to asket06@mail.ru: <03ff808e-2528-ad8b-eb6c-ac813f42d7c4@yandex.ru>
+[2025-08-21T23:29:28+03:00] [INFO] Письмо id=3 успешно отправлено
+[2025-08-21T23:29:28+03:00] [INFO] Задача jobId=28 успешно выполнена
+[2025-08-21T23:29:28+03:00] [INFO] Начинаю обработку письма id=4 для pinchukov.net@gmail.com
+[2025-08-21T23:29:28+03:00] [INFO] Email sent to pinchukov.net@gmail.com: <2ed1fa62-22db-9704-c1ec-57ac9f985c5b@yandex.ru>
+[2025-08-21T23:29:28+03:00] [INFO] Письмо id=4 успешно отправлено
+[2025-08-21T23:29:28+03:00] [INFO] Задача jobId=29 успешно выполнена
+[2025-08-21T23:32:40+03:00] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-21T23:32:40+03:00] [INFO] Table `emails` checked/created successfully.
+[2025-08-21T23:32:40+03:00] [INFO] Imported batch of 4 emails, total imported: 4
+[2025-08-21T23:32:40+03:00] [INFO] Imported total 4 emails from dataImport module.
+[2025-08-21T23:32:40+03:00] [INFO] Database connection pool closed.
+[2025-08-21T23:32:46+03:00] [INFO] Worker для очереди emailQueue запущен и ждет задач...
+[2025-08-21T23:32:50+03:00] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-21T23:32:50+03:00] [INFO] Table `emails` checked/created successfully.
+[2025-08-21T23:32:50+03:00] [INFO] Добавление pending письма в очередь id=1 (sweb27@yandex.ru)
+[2025-08-21T23:32:50+03:00] [INFO] Добавление pending письма в очередь id=2 (info@dvgid.ru)
+[2025-08-21T23:32:50+03:00] [INFO] Добавление pending письма в очередь id=3 (asket06@mail.ru)
+[2025-08-21T23:32:50+03:00] [INFO] Добавление pending письма в очередь id=4 (pinchukov.net@gmail.com)
+[2025-08-21T23:32:50+03:00] [INFO] Начинаю обработку письма id=1 для sweb27@yandex.ru
+[2025-08-21T23:32:51+03:00] [INFO] Email sent to sweb27@yandex.ru: <a9a384b9-54ff-b2cd-596c-54480ab52c42@yandex.ru>
+[2025-08-21T23:32:51+03:00] [INFO] Письмо id=1 успешно отправлено
+[2025-08-21T23:32:51+03:00] [INFO] Задача jobId=30 успешно выполнена
+[2025-08-21T23:32:51+03:00] [INFO] Начинаю обработку письма id=2 для info@dvgid.ru
+[2025-08-21T23:32:51+03:00] [INFO] Email sent to info@dvgid.ru: <d156949c-9f39-e8bc-38e9-60d8fe516170@yandex.ru>
+[2025-08-21T23:32:51+03:00] [INFO] Письмо id=2 успешно отправлено
+[2025-08-21T23:32:51+03:00] [INFO] Задача jobId=31 успешно выполнена
+[2025-08-21T23:32:51+03:00] [INFO] Начинаю обработку письма id=3 для asket06@mail.ru
+[2025-08-21T23:32:52+03:00] [INFO] Email sent to asket06@mail.ru: <65036505-6521-f080-f3b6-cac1469f7fac@yandex.ru>
+[2025-08-21T23:32:52+03:00] [INFO] Письмо id=3 успешно отправлено
+[2025-08-21T23:32:52+03:00] [INFO] Задача jobId=32 успешно выполнена
+[2025-08-21T23:32:52+03:00] [INFO] Начинаю обработку письма id=4 для pinchukov.net@gmail.com
+[2025-08-21T23:32:53+03:00] [INFO] Email sent to pinchukov.net@gmail.com: <44f21530-d7dd-81d6-70f9-44565aba387a@yandex.ru>
+[2025-08-21T23:32:53+03:00] [INFO] Письмо id=4 успешно отправлено
+[2025-08-21T23:32:53+03:00] [INFO] Задача jobId=33 успешно выполнена
+[2025-08-21T23:34:19+03:00] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-21T23:34:19+03:00] [INFO] Table `emails` checked/created successfully.
+[2025-08-21T23:34:19+03:00] [INFO] Imported batch of 4 emails, total imported: 4
+[2025-08-21T23:34:19+03:00] [INFO] Imported total 4 emails from dataImport module.
+[2025-08-21T23:34:19+03:00] [INFO] Database connection pool closed.
+[2025-08-21T23:34:35+03:00] [INFO] Worker для очереди emailQueue запущен и ждет задач...
+[2025-08-21T23:34:45+03:00] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-21T23:34:45+03:00] [INFO] Table `emails` checked/created successfully.
+[2025-08-21T23:34:45+03:00] [INFO] Добавление pending письма в очередь id=1 (sweb27@yandex.ru)
+[2025-08-21T23:34:45+03:00] [INFO] Добавление pending письма в очередь id=2 (info@dvgid.ru)
+[2025-08-21T23:34:45+03:00] [INFO] Добавление pending письма в очередь id=3 (asket06@mail.ru)
+[2025-08-21T23:34:45+03:00] [INFO] Добавление pending письма в очередь id=4 (pinchukov.net@gmail.com)
+[2025-08-21T23:34:45+03:00] [INFO] Начинаю обработку письма id=1 для sweb27@yandex.ru
+[2025-08-21T23:34:45+03:00] [INFO] Email sent to sweb27@yandex.ru: <f9118860-87dd-c6a4-a90e-440ee0a35f4c@yandex.ru>
+[2025-08-21T23:34:45+03:00] [INFO] Письмо id=1 успешно отправлено
+[2025-08-21T23:34:45+03:00] [INFO] Задача jobId=34 успешно выполнена
+[2025-08-21T23:34:45+03:00] [INFO] Начинаю обработку письма id=2 для info@dvgid.ru
+[2025-08-21T23:34:46+03:00] [INFO] Email sent to info@dvgid.ru: <6b9d5916-5628-0ed5-d3db-89c2ef1cc5a1@yandex.ru>
+[2025-08-21T23:34:46+03:00] [INFO] Письмо id=2 успешно отправлено
+[2025-08-21T23:34:46+03:00] [INFO] Задача jobId=35 успешно выполнена
+[2025-08-21T23:34:46+03:00] [INFO] Начинаю обработку письма id=3 для asket06@mail.ru
+[2025-08-21T23:34:46+03:00] [INFO] Email sent to asket06@mail.ru: <d6b41c6b-aad5-889d-54fd-42fdea5b501e@yandex.ru>
+[2025-08-21T23:34:46+03:00] [INFO] Письмо id=3 успешно отправлено
+[2025-08-21T23:34:46+03:00] [INFO] Задача jobId=36 успешно выполнена
+[2025-08-21T23:34:46+03:00] [INFO] Начинаю обработку письма id=4 для pinchukov.net@gmail.com
+[2025-08-21T23:34:47+03:00] [INFO] Email sent to pinchukov.net@gmail.com: <7c3e6fa7-d1f3-1973-12ea-dc8763257209@yandex.ru>
+[2025-08-21T23:34:47+03:00] [INFO] Письмо id=4 успешно отправлено
+[2025-08-21T23:34:47+03:00] [INFO] Задача jobId=37 успешно выполнена
+[2025-08-21T23:36:03+03:00] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-21T23:36:03+03:00] [INFO] Table `emails` checked/created successfully.
+[2025-08-21T23:36:03+03:00] [INFO] Imported batch of 4 emails, total imported: 4
+[2025-08-21T23:36:03+03:00] [INFO] Imported total 4 emails from dataImport module.
+[2025-08-21T23:36:03+03:00] [INFO] Database connection pool closed.
+[2025-08-21T23:36:10+03:00] [INFO] Worker для очереди emailQueue запущен и ждет задач...
+[2025-08-21T23:36:14+03:00] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-21T23:36:14+03:00] [INFO] Table `emails` checked/created successfully.
+[2025-08-21T23:36:14+03:00] [INFO] Добавление pending письма в очередь id=1 (sweb27@yandex.ru)
+[2025-08-21T23:36:14+03:00] [INFO] Прикрепляем файл: /home/ps/Desktop/pin-nodemailer/data/FullStack-Resume-Pinchukov-Sergey.pdf с именем FullStack-Resume-Pinchukov-Sergey.pdf
+[2025-08-21T23:36:14+03:00] [INFO] Добавление pending письма в очередь id=2 (info@dvgid.ru)
+[2025-08-21T23:36:14+03:00] [INFO] Прикрепляем файл: /home/ps/Desktop/pin-nodemailer/data/FullStack-Resume-Pinchukov-Sergey.pdf с именем FullStack-Resume-Pinchukov-Sergey.pdf
+[2025-08-21T23:36:14+03:00] [INFO] Добавление pending письма в очередь id=3 (asket06@mail.ru)
+[2025-08-21T23:36:14+03:00] [INFO] Прикрепляем файл: /home/ps/Desktop/pin-nodemailer/data/FullStack-Resume-Pinchukov-Sergey.pdf с именем FullStack-Resume-Pinchukov-Sergey.pdf
+[2025-08-21T23:36:14+03:00] [INFO] Добавление pending письма в очередь id=4 (pinchukov.net@gmail.com)
+[2025-08-21T23:36:14+03:00] [INFO] Прикрепляем файл: /home/ps/Desktop/pin-nodemailer/data/FullStack-Resume-Pinchukov-Sergey.pdf с именем FullStack-Resume-Pinchukov-Sergey.pdf
+[2025-08-21T23:36:14+03:00] [INFO] Начинаю обработку письма id=1 для sweb27@yandex.ru
+[2025-08-21T23:36:14+03:00] [INFO] Email sent to sweb27@yandex.ru: <38b31ca3-4df1-e25e-2d7b-04654a8c390a@yandex.ru>
+[2025-08-21T23:36:14+03:00] [INFO] Письмо id=1 успешно отправлено
+[2025-08-21T23:36:14+03:00] [INFO] Задача jobId=38 успешно выполнена
+[2025-08-21T23:36:14+03:00] [INFO] Начинаю обработку письма id=2 для info@dvgid.ru
+[2025-08-21T23:36:15+03:00] [INFO] Email sent to info@dvgid.ru: <e3c10779-a715-81b5-ced9-0bc13cf85c92@yandex.ru>
+[2025-08-21T23:36:15+03:00] [INFO] Письмо id=2 успешно отправлено
+[2025-08-21T23:36:15+03:00] [INFO] Задача jobId=39 успешно выполнена
+[2025-08-21T23:36:15+03:00] [INFO] Начинаю обработку письма id=3 для asket06@mail.ru
+[2025-08-21T23:36:16+03:00] [INFO] Email sent to asket06@mail.ru: <a5829b1a-ee09-5ec6-04a4-a50899aa1e65@yandex.ru>
+[2025-08-21T23:36:16+03:00] [INFO] Письмо id=3 успешно отправлено
+[2025-08-21T23:36:16+03:00] [INFO] Задача jobId=40 успешно выполнена
+[2025-08-21T23:36:16+03:00] [INFO] Начинаю обработку письма id=4 для pinchukov.net@gmail.com
+[2025-08-21T23:36:16+03:00] [INFO] Email sent to pinchukov.net@gmail.com: <d526d5aa-b75f-769c-9364-cb12de858585@yandex.ru>
+[2025-08-21T23:36:16+03:00] [INFO] Письмо id=4 успешно отправлено
+[2025-08-21T23:36:16+03:00] [INFO] Задача jobId=41 успешно выполнена
+[2025-08-21T23:37:04+03:00] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-21T23:37:04+03:00] [INFO] Table `emails` checked/created successfully.
+[2025-08-21T23:37:04+03:00] [INFO] Imported batch of 4 emails, total imported: 4
+[2025-08-21T23:37:04+03:00] [INFO] Imported total 4 emails from dataImport module.
+[2025-08-21T23:37:04+03:00] [INFO] Database connection pool closed.
+[2025-08-21T23:37:09+03:00] [INFO] Worker для очереди emailQueue запущен и ждет задач...
+[2025-08-21T23:37:14+03:00] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-21T23:37:14+03:00] [INFO] Table `emails` checked/created successfully.
+[2025-08-21T23:37:14+03:00] [INFO] Добавление pending письма в очередь id=1 (sweb27@yandex.ru)
+[2025-08-21T23:37:14+03:00] [INFO] Прикрепляем файл: /home/ps/Desktop/pin-nodemailer/data/FullStack-Resume-Pinchukov-Sergey.pdf с именем FullStack-Resume-Pinchukov-Sergey.pdf
+[2025-08-21T23:37:14+03:00] [INFO] Добавление pending письма в очередь id=2 (info@dvgid.ru)
+[2025-08-21T23:37:14+03:00] [INFO] Прикрепляем файл: /home/ps/Desktop/pin-nodemailer/data/FullStack-Resume-Pinchukov-Sergey.pdf с именем FullStack-Resume-Pinchukov-Sergey.pdf
+[2025-08-21T23:37:14+03:00] [INFO] Добавление pending письма в очередь id=3 (asket06@mail.ru)
+[2025-08-21T23:37:14+03:00] [INFO] Прикрепляем файл: /home/ps/Desktop/pin-nodemailer/data/FullStack-Resume-Pinchukov-Sergey.pdf с именем FullStack-Resume-Pinchukov-Sergey.pdf
+[2025-08-21T23:37:14+03:00] [INFO] Добавление pending письма в очередь id=4 (pinchukov.net@gmail.com)
+[2025-08-21T23:37:14+03:00] [INFO] Начинаю обработку письма id=1 для sweb27@yandex.ru
+[2025-08-21T23:37:15+03:00] [INFO] Email sent to sweb27@yandex.ru: <3c5861fd-f2b0-ce6d-183f-d809d3ce9067@yandex.ru>
+[2025-08-21T23:37:15+03:00] [INFO] Письмо id=1 успешно отправлено
+[2025-08-21T23:37:15+03:00] [INFO] Задача jobId=42 успешно выполнена
+[2025-08-21T23:37:15+03:00] [INFO] Начинаю обработку письма id=2 для info@dvgid.ru
+[2025-08-21T23:37:16+03:00] [INFO] Email sent to info@dvgid.ru: <cc528628-f568-d489-7106-bdcae5e2fb90@yandex.ru>
+[2025-08-21T23:37:16+03:00] [INFO] Письмо id=2 успешно отправлено
+[2025-08-21T23:37:16+03:00] [INFO] Задача jobId=43 успешно выполнена
+[2025-08-21T23:37:16+03:00] [INFO] Начинаю обработку письма id=3 для asket06@mail.ru
+[2025-08-21T23:37:16+03:00] [INFO] Email sent to asket06@mail.ru: <a651b123-674f-6e97-2959-868a3b68748a@yandex.ru>
+[2025-08-21T23:37:16+03:00] [INFO] Письмо id=3 успешно отправлено
+[2025-08-21T23:37:16+03:00] [INFO] Задача jobId=44 успешно выполнена
+[2025-08-21T23:37:16+03:00] [INFO] Начинаю обработку письма id=4 для pinchukov.net@gmail.com
+[2025-08-21T23:37:17+03:00] [INFO] Email sent to pinchukov.net@gmail.com: <84ade90e-b216-04dd-603f-a183056f0edf@yandex.ru>
+[2025-08-21T23:37:17+03:00] [INFO] Письмо id=4 успешно отправлено
+[2025-08-21T23:37:17+03:00] [INFO] Задача jobId=45 успешно выполнена
+[2025-08-22T15:11:13+03:00] [INFO] Worker для очереди emailQueue запущен и ждет задач...
+[2025-08-22T15:25:00+03:00] [QUEUE] Worker для очереди emailQueue запущен и ждет задач...
+[2025-08-22T15:34:34+03:00] [QUEUE] Worker для очереди emailQueue запущен и ждет задач...
+[2025-08-22T15:42:04+03:00] [QUEUE] Worker для очереди emailQueue запущен и ждет задач...
+[2025-08-22T15:53:58+03:00] [QUEUE] Worker для очереди emailQueue запущен и ждет задач...
+[2025-08-22T15:54:12+03:00] [QUEUE] Worker для очереди emailQueue запущен и ждет задач...
+[2025-08-22T15:55:59+03:00] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-22T15:55:59+03:00] [INFO] Table `emails` checked/created successfully.
+[2025-08-22T15:55:59+03:00] [INFO] Imported batch of 4 emails, total imported: 4
+[2025-08-22T15:55:59+03:00] [INFO] Imported total 4 emails from dataImport module.
+[2025-08-22T15:55:59+03:00] [INFO] Database connection pool closed.
+[2025-08-22T15:56:28+03:00] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-22T15:56:28+03:00] [INFO] Table `emails` checked/created successfully.
+[2025-08-22T15:56:28+03:00] [INFO] Добавление pending письма в очередь id=1 (sweb27@yandex.ru)
+[2025-08-22T15:56:28+03:00] [INFO] Прикрепляем файл: /home/ps/Desktop/pin-nodemailer/data/FullStack-Resume-Pinchukov-Sergey.pdf с именем FullStack-Resume-Pinchukov-Sergey.pdf
+[2025-08-22T15:56:28+03:00] [INFO] Добавление pending письма в очередь id=2 (info@dvgid.ru)
+[2025-08-22T15:56:28+03:00] [INFO] Прикрепляем файл: /home/ps/Desktop/pin-nodemailer/data/FullStack-Resume-Pinchukov-Sergey.pdf с именем FullStack-Resume-Pinchukov-Sergey.pdf
+[2025-08-22T15:56:28+03:00] [INFO] Добавление pending письма в очередь id=3 (asket06@mail.ru)
+[2025-08-22T15:56:28+03:00] [INFO] Прикрепляем файл: /home/ps/Desktop/pin-nodemailer/data/FullStack-Resume-Pinchukov-Sergey.pdf с именем FullStack-Resume-Pinchukov-Sergey.pdf
+[2025-08-22T15:56:28+03:00] [INFO] Добавление pending письма в очередь id=4 (pinchukov.net@gmail.com)
+[2025-08-22T15:56:28+03:00] [QUEUE] Начинаю обработку письма id=1 для sweb27@yandex.ru
+[2025-08-22T15:56:29+03:00] [INFO] Email sent to sweb27@yandex.ru: <84ea88fc-6a7e-c0a9-70bf-0b3d634af22b@yandex.ru>
+[2025-08-22T15:56:29+03:00] [SUCCESS] Письмо id=1 успешно отправлено
+[2025-08-22T15:56:29+03:00] [SUCCESS] Задача jobId=46 успешно выполнена
+[2025-08-22T15:56:29+03:00] [QUEUE] Начинаю обработку письма id=2 для info@dvgid.ru
+[2025-08-22T15:56:30+03:00] [INFO] Email sent to info@dvgid.ru: <707510b4-8cf4-f808-fdfd-054b7fe868e8@yandex.ru>
+[2025-08-22T15:56:30+03:00] [SUCCESS] Письмо id=2 успешно отправлено
+[2025-08-22T15:56:30+03:00] [SUCCESS] Задача jobId=47 успешно выполнена
+[2025-08-22T15:56:30+03:00] [QUEUE] Начинаю обработку письма id=3 для asket06@mail.ru
+[2025-08-22T15:56:30+03:00] [INFO] Email sent to asket06@mail.ru: <fce3ba67-3db9-5444-56bb-d10a2785f4df@yandex.ru>
+[2025-08-22T15:56:30+03:00] [SUCCESS] Письмо id=3 успешно отправлено
+[2025-08-22T15:56:30+03:00] [SUCCESS] Задача jobId=48 успешно выполнена
+[2025-08-22T15:56:30+03:00] [QUEUE] Начинаю обработку письма id=4 для pinchukov.net@gmail.com
+[2025-08-22T15:56:31+03:00] [INFO] Email sent to pinchukov.net@gmail.com: <da685a42-6f16-80f3-be26-29cc9b3b1a4f@yandex.ru>
+[2025-08-22T15:56:31+03:00] [SUCCESS] Письмо id=4 успешно отправлено
+[2025-08-22T15:56:31+03:00] [SUCCESS] Задача jobId=49 успешно выполнена
+[2025-08-22T16:54:56+03:00] [QUEUE] Worker для очереди emailQueue запущен и ждет задач...
+[2025-08-22T17:10:09+03:00] [QUEUE] Worker для очереди emailQueue запущен и ждет задач...
+[2025-08-22T17:12:47+03:00] [QUEUE] Worker для очереди emailQueue запущен и ждет задач...
+[2025-08-22T17:14:01+03:00] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-22T17:14:01+03:00] [INFO] Table `emails` checked/created successfully.
+[2025-08-22T17:15:05+03:00] [QUEUE] Worker для очереди emailQueue запущен и ждет задач...
+[2025-08-22T17:15:11+03:00] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-22T17:15:12+03:00] [INFO] Table `emails` checked/created successfully.
+[2025-08-22T17:15:12+03:00] [INFO] Imported batch of 4 emails, total imported: 4
+[2025-08-22T17:15:12+03:00] [INFO] Imported total 4 emails from dataImport module.
+[2025-08-22T17:15:12+03:00] [INFO] Database connection pool closed.
+[2025-08-22T17:15:18+03:00] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-22T17:15:18+03:00] [INFO] Table `emails` checked/created successfully.
+[2025-08-22T17:15:18+03:00] [INFO] Добавление pending письма в очередь id=1 (sweb27@yandex.ru)
+[2025-08-22T17:15:18+03:00] [INFO] Прикрепляем файл: /home/ps/Desktop/pin-nodemailer/data/FullStack-Resume-Pinchukov-Sergey.pdf с именем FullStack-Resume-Pinchukov-Sergey.pdf
+[2025-08-22T17:15:18+03:00] [INFO] Добавление pending письма в очередь id=2 (info@dvgid.ru)
+[2025-08-22T17:15:18+03:00] [INFO] Прикрепляем файл: /home/ps/Desktop/pin-nodemailer/data/FullStack-Resume-Pinchukov-Sergey.pdf с именем FullStack-Resume-Pinchukov-Sergey.pdf
+[2025-08-22T17:15:18+03:00] [QUEUE] Начинаю обработку письма id=1 для sweb27@yandex.ru
+[2025-08-22T17:15:18+03:00] [INFO] Добавление pending письма в очередь id=3 (asket06@mail.ru)
+[2025-08-22T17:15:18+03:00] [INFO] Прикрепляем файл: /home/ps/Desktop/pin-nodemailer/data/FullStack-Resume-Pinchukov-Sergey.pdf с именем FullStack-Resume-Pinchukov-Sergey.pdf
+[2025-08-22T17:15:18+03:00] [INFO] Добавление pending письма в очередь id=4 (pinchukov.net@gmail.com)
+[2025-08-22T17:15:19+03:00] [INFO] Email sent to sweb27@yandex.ru: <45789f74-4429-408f-66d7-a3c195a73f33@yandex.ru>
+[2025-08-22T17:15:19+03:00] [SUCCESS] Письмо id=1 успешно отправлено
+[2025-08-22T17:15:19+03:00] [SUCCESS] Задача jobId=50 успешно выполнена
+[2025-08-22T17:15:19+03:00] [QUEUE] Начинаю обработку письма id=2 для info@dvgid.ru
+[2025-08-22T17:15:20+03:00] [INFO] Email sent to info@dvgid.ru: <3c87a5db-ee1f-98b4-c1da-9f116dc185e0@yandex.ru>
+[2025-08-22T17:15:20+03:00] [SUCCESS] Письмо id=2 успешно отправлено
+[2025-08-22T17:15:20+03:00] [SUCCESS] Задача jobId=51 успешно выполнена
+[2025-08-22T17:15:20+03:00] [QUEUE] Начинаю обработку письма id=3 для asket06@mail.ru
+[2025-08-22T17:15:20+03:00] [INFO] Email sent to asket06@mail.ru: <a0879587-8f33-4b67-9712-c773a6cf5341@yandex.ru>
+[2025-08-22T17:15:20+03:00] [SUCCESS] Письмо id=3 успешно отправлено
+[2025-08-22T17:15:20+03:00] [SUCCESS] Задача jobId=52 успешно выполнена
+[2025-08-22T17:15:20+03:00] [QUEUE] Начинаю обработку письма id=4 для pinchukov.net@gmail.com
+[2025-08-22T17:15:21+03:00] [INFO] Email sent to pinchukov.net@gmail.com: <acd852c5-02e3-c4ba-fea0-e104ed2e72de@yandex.ru>
+[2025-08-22T17:15:21+03:00] [SUCCESS] Письмо id=4 успешно отправлено
+[2025-08-22T17:15:21+03:00] [SUCCESS] Задача jobId=53 успешно выполнена
+[2025-08-22T19:37:50+03:00] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-22T19:37:50+03:00] [INFO] Table `emails` checked/created successfully.
+[2025-08-22T19:38:03+03:00] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-22T19:38:03+03:00] [INFO] Table `emails` checked/created successfully.
+[2025-08-22T19:38:03+03:00] [INFO] Imported batch of 4 emails, total imported: 4
+[2025-08-22T19:38:03+03:00] [INFO] Imported total 4 emails from dataImport module.
+[2025-08-22T19:38:03+03:00] [INFO] Database connection pool closed.
+[2025-08-22T19:38:13+03:00] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-22T19:38:13+03:00] [INFO] Table `emails` checked/created successfully.
+[2025-08-22T19:38:13+03:00] [INFO] Добавление pending письма в очередь id=1 (sweb27@yandex.ru)
+[2025-08-22T19:38:13+03:00] [INFO] Прикрепляем файл: /home/ps/Desktop/pin-nodemailer/data/FullStack-Resume-Pinchukov-Sergey.pdf с именем FullStack-Resume-Pinchukov-Sergey.pdf
+[2025-08-22T19:38:13+03:00] [INFO] Добавление pending письма в очередь id=2 (info@dvgid.ru)
+[2025-08-22T19:38:13+03:00] [INFO] Прикрепляем файл: /home/ps/Desktop/pin-nodemailer/data/FullStack-Resume-Pinchukov-Sergey.pdf с именем FullStack-Resume-Pinchukov-Sergey.pdf
+[2025-08-22T19:38:13+03:00] [INFO] Добавление pending письма в очередь id=3 (asket06@mail.ru)
+[2025-08-22T19:38:13+03:00] [INFO] Прикрепляем файл: /home/ps/Desktop/pin-nodemailer/data/FullStack-Resume-Pinchukov-Sergey.pdf с именем FullStack-Resume-Pinchukov-Sergey.pdf
+[2025-08-22T19:38:13+03:00] [INFO] Добавление pending письма в очередь id=4 (pinchukov.net@gmail.com)
+[2025-08-22T19:38:14+03:00] [INFO] Email sent to sweb27@yandex.ru: <cb911d96-81a6-f36f-7c2e-6ac640c10b81@yandex.ru>
+[2025-08-22T19:38:15+03:00] [INFO] Email sent to info@dvgid.ru: <92441d89-9191-505f-bc68-584f973421d0@yandex.ru>
+[2025-08-22T19:38:16+03:00] [INFO] Email sent to asket06@mail.ru: <86925a65-139a-5da6-39fe-a5eae9449a02@yandex.ru>
+[2025-08-22T19:38:16+03:00] [INFO] Email sent to pinchukov.net@gmail.com: <b6a332e0-ddf5-0318-a942-5fd649be56c9@yandex.ru>
+[2025-08-22T19:42:15+03:00] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-22T19:42:15+03:00] [INFO] Table `emails` checked/created successfully.
+[2025-08-22T19:42:15+03:00] [INFO] Imported batch of 4 emails, total imported: 4
+[2025-08-22T19:42:15+03:00] [INFO] Imported total 4 emails from dataImport module.
+[2025-08-22T19:42:15+03:00] [INFO] Database connection pool closed.
+[2025-08-22T19:42:20+03:00] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-22T19:42:20+03:00] [INFO] Table `emails` checked/created successfully.
+[2025-08-22T19:42:20+03:00] [INFO] Добавление pending письма в очередь id=1 (sweb27@yandex.ru)
+[2025-08-22T19:42:20+03:00] [INFO] Прикрепляем файл: /home/ps/Desktop/pin-nodemailer/data/FullStack-Resume-Pinchukov-Sergey.pdf с именем FullStack-Resume-Pinchukov-Sergey.pdf
+[2025-08-22T19:42:20+03:00] [INFO] Добавление pending письма в очередь id=2 (info@dvgid.ru)
+[2025-08-22T19:42:20+03:00] [INFO] Прикрепляем файл: /home/ps/Desktop/pin-nodemailer/data/FullStack-Resume-Pinchukov-Sergey.pdf с именем FullStack-Resume-Pinchukov-Sergey.pdf
+[2025-08-22T19:42:20+03:00] [INFO] Добавление pending письма в очередь id=3 (asket06@mail.ru)
+[2025-08-22T19:42:20+03:00] [INFO] Прикрепляем файл: /home/ps/Desktop/pin-nodemailer/data/FullStack-Resume-Pinchukov-Sergey.pdf с именем FullStack-Resume-Pinchukov-Sergey.pdf
+[2025-08-22T19:42:20+03:00] [INFO] Добавление pending письма в очередь id=4 (pinchukov.net@gmail.com)
+[2025-08-22T19:42:21+03:00] [INFO] Email sent to sweb27@yandex.ru: <7befc164-2dc0-c65c-5477-c0c46e9a5171@yandex.ru>
+[2025-08-22T19:42:22+03:00] [INFO] Email sent to info@dvgid.ru: <c43402e1-dce3-6ab0-8aee-dbd056837205@yandex.ru>
+[2025-08-22T19:42:22+03:00] [INFO] Email sent to asket06@mail.ru: <8dc015cf-9e67-b2b2-6182-4e96e0028700@yandex.ru>
+[2025-08-22T19:42:23+03:00] [INFO] Email sent to pinchukov.net@gmail.com: <8d351389-3488-374a-a2dd-ca9c5229802e@yandex.ru>
+[2025-08-22T20:30:03+03:00] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-22T20:30:03+03:00] [INFO] Table `emails` checked/created successfully.
+[2025-08-22T20:30:03+03:00] [INFO] Imported batch of 4 emails, total imported: 4
+[2025-08-22T20:30:03+03:00] [INFO] Imported total 4 emails from ./data/dataImport.js
+[2025-08-22T20:30:03+03:00] [INFO] Database connection pool closed.
+[2025-08-22T20:30:12+03:00] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-22T20:30:12+03:00] [INFO] Table `emails` checked/created successfully.
+[2025-08-22T20:30:12+03:00] [ERROR] Ошибка при получении pending писем: Incorrect arguments to mysqld_stmt_execute
+[2025-08-22T20:30:12+03:00] [ERROR] Ошибка при получении failed писем: Incorrect arguments to mysqld_stmt_execute
+[2025-08-22T20:34:28+03:00] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-22T20:34:28+03:00] [INFO] Table `emails` checked/created successfully.
+[2025-08-22T20:34:28+03:00] [INFO] Imported batch of 4 emails, total imported: 4
+[2025-08-22T20:34:28+03:00] [INFO] Imported total 4 emails from ./data/dataImport.js
+[2025-08-22T20:34:28+03:00] [INFO] Database connection pool closed.
+[2025-08-22T20:34:33+03:00] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-22T20:34:33+03:00] [INFO] Table `emails` checked/created successfully.
+[2025-08-22T20:34:33+03:00] [INFO] Добавление pending письма в очередь id=1 (sweb27@yandex.ru)
+[2025-08-22T20:34:33+03:00] [INFO] Прикрепляем файл: /home/ps/Desktop/pin-nodemailer/data/FullStack-Resume-Pinchukov-Sergey.pdf с именем FullStack-Resume-Pinchukov-Sergey.pdf
+[2025-08-22T20:34:33+03:00] [INFO] Добавление pending письма в очередь id=2 (info@dvgid.ru)
+[2025-08-22T20:34:33+03:00] [INFO] Прикрепляем файл: /home/ps/Desktop/pin-nodemailer/data/FullStack-Resume-Pinchukov-Sergey.pdf с именем FullStack-Resume-Pinchukov-Sergey.pdf
+[2025-08-22T20:34:33+03:00] [INFO] Добавление pending письма в очередь id=3 (asket06@mail.ru)
+[2025-08-22T20:34:33+03:00] [INFO] Прикрепляем файл: /home/ps/Desktop/pin-nodemailer/data/FullStack-Resume-Pinchukov-Sergey.pdf с именем FullStack-Resume-Pinchukov-Sergey.pdf
+[2025-08-22T20:34:33+03:00] [INFO] Добавление pending письма в очередь id=4 (pinchukov.net@gmail.com)
+[2025-08-22T20:34:34+03:00] [INFO] Email sent to sweb27@yandex.ru: <0cd4c105-3226-8b37-9a08-09c50c833f05@yandex.ru>
+[2025-08-22T20:34:35+03:00] [INFO] Email sent to info@dvgid.ru: <6d918f7e-502a-9fe1-60c9-8ee8c282bcd9@yandex.ru>
+[2025-08-22T20:34:35+03:00] [INFO] Email sent to asket06@mail.ru: <23896ef8-212f-e7e4-2590-cc7c8ce1d299@yandex.ru>
+[2025-08-22T20:34:36+03:00] [INFO] Email sent to pinchukov.net@gmail.com: <66327ffd-b6bb-7716-d1b0-79f266952b10@yandex.ru>
+[2025-08-22T20:45:06+03:00] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-22T20:45:06+03:00] [INFO] Table `emails` checked/created successfully.
+[2025-08-22T20:45:06+03:00] [INFO] Imported batch of 4 emails, total imported: 4
+[2025-08-22T20:45:06+03:00] [INFO] Imported total 4 emails from ./data/dataImport.js
+[2025-08-22T20:45:06+03:00] [INFO] Database connection pool closed.
+[2025-08-22T20:45:21+03:00] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-22T20:45:21+03:00] [INFO] Table `emails` checked/created successfully.
+[2025-08-22T20:45:21+03:00] [INFO] Добавление pending письма в очередь id=1 (sweb27@yandex.ru)
+[2025-08-22T20:45:21+03:00] [INFO] Прикрепляем файл: /home/ps/Desktop/pin-nodemailer/data/FullStack-Resume-Pinchukov-Sergey.pdf с именем FullStack-Resume-Pinchukov-Sergey.pdf
+[2025-08-22T20:45:21+03:00] [INFO] Добавление pending письма в очередь id=2 (info@dvgid.ru)
+[2025-08-22T20:45:21+03:00] [INFO] Прикрепляем файл: /home/ps/Desktop/pin-nodemailer/data/FullStack-Resume-Pinchukov-Sergey.pdf с именем FullStack-Resume-Pinchukov-Sergey.pdf
+[2025-08-22T20:45:21+03:00] [INFO] Добавление pending письма в очередь id=3 (asket06@mail.ru)
+[2025-08-22T20:45:21+03:00] [INFO] Прикрепляем файл: /home/ps/Desktop/pin-nodemailer/data/FullStack-Resume-Pinchukov-Sergey.pdf с именем FullStack-Resume-Pinchukov-Sergey.pdf
+[2025-08-22T20:45:21+03:00] [INFO] Добавление pending письма в очередь id=4 (pinchukov.net@gmail.com)
+[2025-08-22T20:45:22+03:00] [INFO] Email sent to sweb27@yandex.ru: <4677f554-4f90-a112-5101-f7a96df2dd03@yandex.ru>
+[2025-08-22T20:45:23+03:00] [INFO] Email sent to info@dvgid.ru: <38eeb45c-92af-490a-02c2-3d4d76150a1c@yandex.ru>
+[2025-08-22T20:45:24+03:00] [INFO] Email sent to asket06@mail.ru: <708d6c0a-cad1-63cb-5992-1ba1e4bb1bbb@yandex.ru>
+[2025-08-22T20:45:24+03:00] [INFO] Email sent to pinchukov.net@gmail.com: <7e7b4f6f-d83f-07c1-6373-ced161560b1f@yandex.ru>
+[2025-08-22T21:10:19+03:00] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-22T21:10:19+03:00] [INFO] Table `emails` checked/created successfully.
+[2025-08-22T21:10:19+03:00] [INFO] Imported batch of 4 emails, total imported: 4
+[2025-08-22T21:10:19+03:00] [INFO] Imported total 4 emails from ./data/dataImport.js
+[2025-08-22T21:10:19+03:00] [INFO] Database connection pool closed.
+[2025-08-22T21:10:24+03:00] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-22T21:10:24+03:00] [INFO] Table `emails` checked/created successfully.
+[2025-08-22T21:10:24+03:00] [INFO] Добавление pending письма в очередь id=1 (sweb27@yandex.ru)
+[2025-08-22T21:10:24+03:00] [INFO] Прикрепляем аватарку: /home/ps/Desktop/pin-nodemailer/data/mrPin.jpg
+[2025-08-22T21:10:24+03:00] [INFO] Прикрепляем файл: /home/ps/Desktop/pin-nodemailer/data/FullStack-Resume-Pinchukov-Sergey.pdf с именем FullStack-Resume-Pinchukov-Sergey.pdf
+[2025-08-22T21:10:24+03:00] [INFO] Добавление pending письма в очередь id=2 (info@dvgid.ru)
+[2025-08-22T21:10:24+03:00] [INFO] Прикрепляем аватарку: /home/ps/Desktop/pin-nodemailer/data/mrPin.jpg
+[2025-08-22T21:10:24+03:00] [INFO] Прикрепляем файл: /home/ps/Desktop/pin-nodemailer/data/FullStack-Resume-Pinchukov-Sergey.pdf с именем FullStack-Resume-Pinchukov-Sergey.pdf
+[2025-08-22T21:10:24+03:00] [INFO] Добавление pending письма в очередь id=3 (asket06@mail.ru)
+[2025-08-22T21:10:24+03:00] [INFO] Прикрепляем аватарку: /home/ps/Desktop/pin-nodemailer/data/mrPin.jpg
+[2025-08-22T21:10:24+03:00] [INFO] Прикрепляем файл: /home/ps/Desktop/pin-nodemailer/data/FullStack-Resume-Pinchukov-Sergey.pdf с именем FullStack-Resume-Pinchukov-Sergey.pdf
+[2025-08-22T21:10:24+03:00] [INFO] Добавление pending письма в очередь id=4 (pinchukov.net@gmail.com)
+[2025-08-22T21:10:24+03:00] [INFO] Прикрепляем аватарку: /home/ps/Desktop/pin-nodemailer/data/mrPin.jpg
+[2025-08-22T21:10:25+03:00] [INFO] Email sent to sweb27@yandex.ru: <418f0b46-5858-e98a-c9a5-623fe8111da3@yandex.ru>
+[2025-08-22T21:10:26+03:00] [INFO] Email sent to info@dvgid.ru: <7a0d09d4-26ef-4ddb-7871-b72808e8fc90@yandex.ru>
+[2025-08-22T21:10:27+03:00] [INFO] Email sent to asket06@mail.ru: <3443ada1-82ab-9812-cba9-73d91ba378b9@yandex.ru>
+[2025-08-22T21:10:27+03:00] [INFO] Email sent to pinchukov.net@gmail.com: <a5cbc0e0-475a-b79b-1f90-8c66f40e9c37@yandex.ru>
+[2025-08-22T21:14:26+03:00] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-22T21:14:26+03:00] [INFO] Table `emails` checked/created successfully.
+[2025-08-22T21:14:26+03:00] [INFO] Imported batch of 4 emails, total imported: 4
+[2025-08-22T21:14:26+03:00] [INFO] Imported total 4 emails from ./data/dataImport.js
+[2025-08-22T21:14:26+03:00] [INFO] Database connection pool closed.
+[2025-08-22T21:14:29+03:00] [INFO] Database 'pin_nodemailer_db' ensured exists.
+[2025-08-22T21:14:29+03:00] [INFO] Table `emails` checked/created successfully.
+[2025-08-22T21:14:29+03:00] [INFO] Добавление pending письма в очередь id=1 (sweb27@yandex.ru)
+[2025-08-22T21:14:29+03:00] [INFO] Прикрепляем файл: /home/ps/Desktop/pin-nodemailer/data/FullStack-Resume-Pinchukov-Sergey.pdf с именем FullStack-Resume-Pinchukov-Sergey.pdf
+[2025-08-22T21:14:29+03:00] [INFO] Добавление pending письма в очередь id=2 (info@dvgid.ru)
+[2025-08-22T21:14:29+03:00] [INFO] Прикрепляем файл: /home/ps/Desktop/pin-nodemailer/data/FullStack-Resume-Pinchukov-Sergey.pdf с именем FullStack-Resume-Pinchukov-Sergey.pdf
+[2025-08-22T21:14:29+03:00] [INFO] Добавление pending письма в очередь id=3 (asket06@mail.ru)
+[2025-08-22T21:14:29+03:00] [INFO] Прикрепляем файл: /home/ps/Desktop/pin-nodemailer/data/FullStack-Resume-Pinchukov-Sergey.pdf с именем FullStack-Resume-Pinchukov-Sergey.pdf
+[2025-08-22T21:14:29+03:00] [INFO] Добавление pending письма в очередь id=4 (pinchukov.net@gmail.com)
+[2025-08-22T21:14:30+03:00] [INFO] Email sent to sweb27@yandex.ru: <a049446a-31ef-d2bc-8a4d-c1e3f8d425c9@yandex.ru>
+[2025-08-22T21:14:30+03:00] [INFO] Email sent to info@dvgid.ru: <103745d3-846b-da14-48f0-64d5b13e6144@yandex.ru>
+[2025-08-22T21:14:31+03:00] [INFO] Email sent to asket06@mail.ru: <807ed31c-394f-7aff-da8b-f9b3d4e23cd1@yandex.ru>
+[2025-08-22T21:14:31+03:00] [INFO] Email sent to pinchukov.net@gmail.com: <07f99374-6ae2-c0e2-9e8c-ce3b3721c15a@yandex.ru>
